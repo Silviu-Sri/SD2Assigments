@@ -8,11 +8,11 @@ public class Word {
     }
 
     public boolean contains(char symbol) {
-        return false;
+        return false; 
     }
 
     public int length() {
-        return 0;
+        return 0; 
     }
 
     public char[] getLetters() {
